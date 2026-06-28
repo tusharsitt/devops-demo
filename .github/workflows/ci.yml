@@ -47,5 +47,5 @@ jobs:
           context: .
           push: true
           tags: |
-            tushar885/devops-demo:latest
-            tushar885/devops-demo:${{ github.sha }}
+            tushars885/devops-demo:latest
+            tushars885/devops-demo:${{ github.sha }}
