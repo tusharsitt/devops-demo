@@ -1,0 +1,10 @@
+{
+  "name": "devops-demo",
+  "version": "1.0.0",
+  "description": "DevOps demo app for interview prep",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  }
+}
